@@ -1,4 +1,4 @@
-package tictactoe;
+package tictactoe11;
 
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;

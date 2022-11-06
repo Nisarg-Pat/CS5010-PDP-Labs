@@ -1,4 +1,4 @@
-package tictactoe;
+package tictactoe11;
 
 class Pair {
   private final int x;

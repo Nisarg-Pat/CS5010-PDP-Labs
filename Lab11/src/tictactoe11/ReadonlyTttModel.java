@@ -1,4 +1,4 @@
-package tictactoe;
+package tictactoe11;
 
 /**
  * The interface needed for a read-only model for the TicTacToe game.

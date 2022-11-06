@@ -1,4 +1,4 @@
-package tictactoe;
+package tictactoe11;
 
 /**
  * A view for TicTacToe: display the game board and provide visual interface
