@@ -1,9 +1,9 @@
 import org.junit.Before;
 import org.junit.Test;
 
-import tictactoe.Player;
-import tictactoe.TicTacToe;
-import tictactoe.TicTacToeModel;
+import tictactoe3.Player;
+import tictactoe3.TicTacToe;
+import tictactoe3.TicTacToeModel;
 
 import static org.junit.Assert.*;
 
