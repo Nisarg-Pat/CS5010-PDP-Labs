@@ -1,4 +1,4 @@
-package tictactoe;
+package tictactoe8;
 
 import java.io.IOException;
 import java.util.Scanner;

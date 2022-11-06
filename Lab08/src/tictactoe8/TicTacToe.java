@@ -1,4 +1,4 @@
-package tictactoe;
+package tictactoe8;
 
 /**
  * A single game of Tic Tac Toe, played on a three-by-three grid with two players,

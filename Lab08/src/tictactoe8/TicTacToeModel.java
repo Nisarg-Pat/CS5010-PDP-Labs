@@ -1,4 +1,4 @@
-package tictactoe;
+package tictactoe8;
 
 import java.util.Arrays;
 import java.util.Objects;

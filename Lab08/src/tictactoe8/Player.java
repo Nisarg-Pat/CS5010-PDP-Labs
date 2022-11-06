@@ -1,4 +1,4 @@
-package tictactoe;
+package tictactoe8;
 
 /**
  * Represents a player in the game of tic-tac-toe.

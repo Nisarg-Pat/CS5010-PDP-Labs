@@ -1,5 +1,5 @@
-import tictactoe.Player;
-import tictactoe.TicTacToe;
+import tictactoe8.Player;
+import tictactoe8.TicTacToe;
 
 /**
  * A mock for the Model to simulate and log the correctness

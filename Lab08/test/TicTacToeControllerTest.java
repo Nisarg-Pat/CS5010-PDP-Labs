@@ -1,17 +1,17 @@
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.fail;
 
-import tictactoe.TicTacToe;
-import tictactoe.TicTacToeConsoleController;
-import tictactoe.TicTacToeController;
-import tictactoe.TicTacToeModel;
+import tictactoe8.TicTacToe;
+import tictactoe8.TicTacToeConsoleController;
+import tictactoe8.TicTacToeController;
+import tictactoe8.TicTacToeModel;
 
 import java.io.StringReader;
 
 import org.junit.Test;
 
 /**
- * Test cases for the tic tac toe controller, using mocks for readable and
+ * Test cases for the tic-tac-toe controller, using mocks for readable and
  * appendable.
  */
 public class TicTacToeControllerTest {
